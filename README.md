@@ -27,4 +27,4 @@ Ensure you have [Node.js](https://nodejs.org/) (version 14.18+ or 16+) installed
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/professionaldev527/react-currency-converter.git](https://github.com/professionaldev527/react-currency-converter.git)
+   git clone https://github.com/professionaldev527/react-currency-converter.git
